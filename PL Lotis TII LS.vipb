@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-22 16:19:10" Creator="Researcher" Comments="" ID="a2b663add3301f08ad66daa923607a88">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-22 18:09:30" Creator="Researcher" Comments="" ID="61ce7c1a748b561e4050b9fa0e9f146c">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Lotis_TII_LS</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -288,7 +288,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7024D0D1D3150F2BA29DBCD3FA476547</GUID>
+      <GUID>D4D2098D5997AA94491E5724E986E79F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -589,7 +589,7 @@ Features
         <Path>Public\Configure\Read Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2AFD4BFE57676D3662457A7663CD770</GUID>
+      <GUID>BD641E4DA4FA6DD5D3A2DE212D8CCD43</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -652,7 +652,7 @@ Features
         <Path>Public\Action-Status\Stop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C21745EAC548FAC272E29515C1CD76E</GUID>
+      <GUID>1DF8F4E81C6CD8A1E6B549F77E5D44E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -799,7 +799,7 @@ Features
         <Path>Public\Utility\Reset Errors.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D5E7B41B83B259609426B5DF6938439</GUID>
+      <GUID>92DF040F87F46CB786B197ABFE7EDF24</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
