@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:56:20" Creator="Researcher" Comments="" ID="109b573a41c7b39f911c57827154c953">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-07 15:01:31" Creator="Researcher" Comments="" ID="8913361b32f76301a335c790ef052398">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Lotis_TII_LS</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -41,7 +41,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/lotis-tii-ls-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -288,7 +288,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E5329844FF58A6E1BE6EDB6C6AF013C2</GUID>
+      <GUID>D18BFFB1FDA1E4BE69FDB3DCBFC490F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -589,7 +589,7 @@ Features
         <Path>Public\Configure\Read Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CEFED457AB9F886C967CDE2B80925F50</GUID>
+      <GUID>EC9EF66EEBDA7014DD92746A52319AEA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -652,7 +652,7 @@ Features
         <Path>Public\Action-Status\Stop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>85A6C89EAFEFDE9EF54BE531B73D2509</GUID>
+      <GUID>97442A51782319B91F8624D3BD31F443</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -799,7 +799,7 @@ Features
         <Path>Public\Utility\Reset Errors.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7409E95849286019894AC0AC4456EC3E</GUID>
+      <GUID>031C327C11E7216D69D651BB765A5D57</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
