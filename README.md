@@ -1,6 +1,4 @@
-# Lotis TII LS Series Library for LabVIEW
-LabVIEW instrument driver for Lotis TII LS series lasers.
-
+# LabVIEW Instrument Driver for Lotis TII LS Series Lasers
 Tested on Lotis TII LS2147.
 
 ## Requirements
